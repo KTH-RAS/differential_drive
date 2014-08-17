@@ -1,4 +1,4 @@
-differential_drive
+ras_arduino_msgs
 ==================
 
-Differential drive messages for Arduino-controlled mobile robot
+This package contains message (.msg) definitions for interfacing via ROS with motors and sensors on the Arduino.

@@ -13,7 +13,7 @@ add_message_files(
   ServoMotors.msg
   WheelAngularVelocities.msg
   Odometry.msg
-  Params.msg
+  ControllerParams.msg
 )
 
 generate_messages(

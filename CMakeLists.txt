@@ -7,7 +7,7 @@ find_package(catkin REQUIRED COMPONENTS std_msgs message_generation
 add_message_files(
   FILES
   PWM.msg
-  ADC.msg
+  ADConverter.msg
   BatteryStatus.msg
   Encoders.msg
   ServoMotors.msg
